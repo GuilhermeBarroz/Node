@@ -1,0 +1,3 @@
+1 -  Os dois exemplos do module.exports retornam os mesmo valores
+2 - No node neste contexto a palavra "this" aponta para module.exports e para exports. O "this" neste contexto não é muito utilizado
+3 - 
